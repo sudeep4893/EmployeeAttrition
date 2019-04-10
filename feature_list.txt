@@ -1,0 +1,41 @@
+1. Job Board Sites/Social Media (eg, Indeed, LinkedIn,Conference Meet-ups) activity levels
+-> Pull data from LinkedIn / Twitter -> NLP -> Extract data in range(normalize) -> Use for modelling
+-> Analyze how this can be extracted and normalized - TODO
+
+2. Email Data (who from/to, context)
+-> Pull data from mail server -> NLP -> Extract data in range(normalize) -> Use for modelling
+-> Analyze how this can be extracted and normalized - TODO
+
+3. Employment history (how often jumping around) **
+-> Average no. of years in organization
+-> Total experience
+
+4. Age/Lifestyle/Hobbies (gets injured often, must go to compete often, prefers to work remote)
+Age - [we know]
+Lifestyle/Hobbies - Interest in any particular hobby other that work due to which individual is relucatant to leave org.
+Relations - Family members in organization e.g. wife, husband, brother, sister
+Relationship with Boss & Coworkers - [ratings by manager]
+
+5. Time card data – are they late, leave early.  Have they
+Time card data - [we have][can also measure count on months late in year, attendance < 90]
+
+6. Been working a lot of overtime?  Late nights?
+[we have this data]
+
+7. Connection/Distance from a “mission” how well/not theyconnect to the company and it’s mission/customers
+[TODO - this point not understood]
+
+8. Changes to employee performance (responsiveness, participation levels)
+[from rating by manager]
+
+9. Increase in PTO requests
+[data available]
+
+10. Compensation reviews
+[TODO - this point not understood]
+
+11. Role/Responsibility progression (Up or Out)
+[TODO - this point not understood]
+
+12. Performance Reviews/Personal Goal setting matching
+[data available - manager ratings]

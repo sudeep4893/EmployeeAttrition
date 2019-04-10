@@ -1,0 +1,50 @@
+## Feature Set(Sample Data Set)
+1. Age
+2. Attrition (value to be predicted)
+3. BusinessTravel
+4. DailyRate
+5. Department
+6. DistanceFromHome
+7. Education
+8. EducationField
+9. EmployeeCount
+10. EmployeeNumber
+11. EnvironmentSatisfaction
+12. Gender
+13. HourlyRate
+14. JobInvolvement
+15. JobLevel
+16. JobRole
+17. JobSatisfaction
+18. MaritalStatus
+19. MonthlyIncome
+20. MonthlyRate
+21. NumCompaniesWorked
+22. Over18
+23. OverTime
+24. PercentSalaryHike
+25. PerformanceRating
+26. RelationshipSatisfaction
+27. StandardHours
+28. StockOptionLevel
+29. TotalWorkingYears
+30. TrainingTimesLastYear
+31. WorkLifeBalance
+32. YearsAtCompany
+33. YearsInCurrentRole
+34. YearsSinceLastPromotion
+35. YearsWithCurrManager
+
+## Feature Set(Suggested By Semicolons Team)
+1. Job Board Sites/Social Media (eg, Indeed, LinkedIn, Conference Meet-ups) activity levels
+2. Email Data (who from/to, context)
+3. Employment history (how often jumping around) **
+4. Age/Lifestyle/Hobbies (gets injured often, must go to compete often, prefers to work remote)
+5. Time card data – are they late, leave early.  Have they
+6. Been working a lot of overtime?  Late nights?
+7. Connection/Distance from a “mission” how well/not theyconnect to the company and it’s mission/customers
+8. Changes to employee performance (responsiveness, participation levels)
+9. Increase in PTO requests
+10. Compensation reviews
+11. Role/Responsibility progression (Up or Out)
+12. Performance Reviews/Personal Goal setting matching
