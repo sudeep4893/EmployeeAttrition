@@ -6,7 +6,7 @@ We are using machine learning algorithms to build prediction model for Attrition
 
 ## System Overview
 
-
+![BlockDiag.jpg](Images/BlockDiag.jpg)
 
 ## Business Advantages
 * Continuous ESAT improvement through predictive insights
