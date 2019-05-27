@@ -10,13 +10,13 @@ We are using machine learning algorithms to build prediction model for Attrition
 
 #### Global average software industry attrition rate seems to be  ~13.2% per year
 
-'Causes of Attrition' – 
+#### Causes of Attrition – 
 * Lack of Growth and Progression
 * Being overworked
 * Lack of Feedback and Recognition
 * Changes in Organizational processes and policies
 
-'Impact of Attrition' – 
+#### Impact of Attrition – 
 * Loss of talent
 * Productivity
 * Profit
