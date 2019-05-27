@@ -30,3 +30,5 @@ We are using machine learning algorithms to build prediction model for Attrition
 * Sentiment based predictive analysis through multiple data sources like – corporate communication, social media, job portal site
 * Recommendation through tool to control attrition
 * Joining prediction model
+
+### Refernce https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
