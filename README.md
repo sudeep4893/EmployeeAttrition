@@ -14,7 +14,7 @@ Uncover the factors that lead to employee attrition and explore important questi
 `JobInvolvement` 
 1 'Low' 2 'Medium' 3 'High' 4 'Very High'
 
-`JobSatisfaction 1 'Low' 2 'Medium' 3 'High' 4 'Very High'
+`JobSatisfaction` 1 'Low' 2 'Medium' 3 'High' 4 'Very High'
 
 `PerformanceRating` 
 1 'Low' 2 'Good' 3 'Excellent' 4 'Outstanding'
