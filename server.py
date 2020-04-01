@@ -37,7 +37,7 @@ def server_login():
     print ("password : " + str(password))
     # query db here and return appropriate template
     # start session
-    if email == "pranav_kelkar@persistent.com" and password == "password":
+    if email == "pp@gmail.com" and password == "password":
         return render_template("eda.html")
     else:
         return render_template("relogin.html")
